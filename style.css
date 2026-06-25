@@ -6,9 +6,9 @@
 header {
     z-index: 1;
     border-bottom: solid #8c1e1e 5px;
-    background-image: url('imagens/header.jpg');
+    background-image: url(imagens/header.png);
     background-size: cover;
-    background-position: left 40%;
+    background-position: left 45%;
     background-color: #fff;
     height: 250px;
 }
