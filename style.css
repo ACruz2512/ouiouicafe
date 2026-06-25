@@ -19,7 +19,7 @@ header img {
     border-radius: 5px;
     padding-left: 50px;
     flex-shrink: 0;
-    /* logo visível mas sem título ao lado */
+
 }
 
 .navbar {
@@ -104,7 +104,7 @@ main {
     text-align: left;
 }
 
-/* INÍCIO */
+
 .inicio-fotos {
     display: flex;
     justify-content: center;
@@ -121,7 +121,7 @@ main {
     height: 300px;
 }
 
-/* CARDÁPIO */
+
 .cardapio-imgs {
     display: flex;
     flex-direction: column;
@@ -137,7 +137,7 @@ main {
     border: 1px solid #eee;
 }
 
-/* SOBRE */
+
 .sobre-fotos {
     display: flex;
     justify-content: center;
@@ -154,7 +154,7 @@ main {
     height: 280px;
 }
 
-/* GATOS */
+
 .gatos-grid {
     display: flex;
     justify-content: center;
@@ -194,7 +194,7 @@ main {
     padding: 4px 0;
 }
 
-/* HORÁRIOS */
+
 .horarios {
     display: flex;
     justify-content: center;
@@ -223,7 +223,7 @@ main {
     padding: 0 !important;
 }
 
-/* CONTATO */
+
 .contato-lista {
     list-style: none;
     padding: 0;
@@ -248,7 +248,7 @@ main {
     text-decoration: underline;
 }
 
-/* FOOTER */
+
 footer {
     background-color: #132A46;
     color: white;
